@@ -106,8 +106,7 @@ AI-Real-Time-Fake-News-Detection/
 }  
 
 - Response :  
-  
-{
+{  
   "prediction": "fake",  
   "confidence": 0.91  
 }  
