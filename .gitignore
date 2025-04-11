@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Virtual Environment
+env/
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# Data files
+*.csv
+*.json
+*.sqlite3
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.env
+
+# PySpark temporary files
+.metastore_db/
+derby.log
+
+# Model files
+*.pkl
+*.joblib
+*.pt
+*.h5
+*.onnx
+*.safetensors
+
+# HuggingFace Transformers cache
+~/.cache/huggingface/
+~/.huggingface/
+
+# Streamlit generated
+.streamlit/
+
+# OS generated
+.DS_Store
+Thumbs.db
