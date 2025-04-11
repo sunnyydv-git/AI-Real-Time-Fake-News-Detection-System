@@ -105,7 +105,8 @@ AI-Real-Time-Fake-News-Detection/
   "platform": "Twitter"  
 }  
 
-- Response : 
+- Response :  
+  
 {
   "prediction": "fake",  
   "confidence": 0.91  
