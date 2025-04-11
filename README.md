@@ -66,27 +66,27 @@ A scalable, end-to-end real-time fake news detection pipeline powered by Apache 
 
 ## 📁 Project Structure  
 
-AI-Real-Time-Fake-News-Detection/
-├── notebooks/
-│   └── training.ipynb
-├── kafka_streaming/
-│   ├── producer.py
-│   └── consumer_spark.py
-├── fastapi_backend/
-│   ├── main.py
-│   ├── model/
-│   │   └── saved_fake_news_model/
-│   │       ├── bert/
-│   │       ├── vectorizer.pkl
-│   │       └── classifier.pkl
-├── superset_charts/
-│   └── chart_configs.json
-├── data/
-│   └── sample_text_data.json
-├── Dockerfile
-├── requirements.txt
-├── README.md
-└── .gitignore
+AI-Real-Time-Fake-News-Detection/  
+├── notebooks/  
+│   └── training.ipynb  
+├── kafka_streaming/  
+│   ├── producer.py  
+│   └── consumer_spark.py  
+├── fastapi_backend/  
+│   ├── main.py  
+│   ├── model/  
+│   │   └── saved_fake_news_model/  
+│   │       ├── bert/  
+│   │       ├── vectorizer.pkl  
+│   │       └── classifier.pkl  
+├── superset_charts/  
+│   └── chart_configs.json  
+├── data/  
+│   └── sample_text_data.json  
+├── Dockerfile  
+├── requirements.txt  
+├── README.md  
+└── .gitignore  
 
 ---
 
