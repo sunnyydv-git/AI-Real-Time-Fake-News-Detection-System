@@ -93,23 +93,23 @@ AI-Real-Time-Fake-News-Detection/
 ## 📡 REST API for Prediction  
 
 - Endpoint URL: http://your-fastapi-endpoint/predict  
-- Sample Payload:
-  {
-  "type": "news",
-  "source": "Example News",
-  "author": "John Doe",
-  "title": "Breaking: Something unbelievable happened",
-  "content": "This just in, something truly astonishing occurred...",
-  "published_date": "2025-04-10",
-  "url": "https://example.com/article",
-  "platform": "Twitter"
-}
+- Sample Payload:  
+  {  
+  "type": "news",  
+  "source": "Example News",  
+  "author": "John Doe",  
+  "title": "Breaking: Something unbelievable happened",  
+  "content": "This just in, something truly astonishing occurred...",  
+  "published_date": "2025-04-10",  
+  "url": "https://example.com/article",  
+  "platform": "Twitter"  
+}  
 
 - Response : 
 {
-  "prediction": "fake",
-  "confidence": 0.91
-}
+  "prediction": "fake",  
+  "confidence": 0.91  
+}  
 
 ---
 
